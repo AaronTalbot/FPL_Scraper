@@ -1,0 +1,11 @@
+,code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_start_time,started,team_a,team_a_score,team_h,team_h_score,stats,team_h_difficulty,team_a_difficulty,pulse_id
+0,2292923,12,False,False,114,"['2022-10-18', '18:30:00']",0,False,False,16,,5,,[],2,2,75024
+1,2292924,12,False,False,115,"['2022-10-18', '18:30:00']",0,False,False,20,,7,,[],2,2,75025
+2,2292920,12,False,False,112,"['2022-10-18', '19:15:00']",0,False,False,17,,3,,[],2,2,75022
+3,2292927,12,False,False,118,"['2022-10-19', '18:30:00']",0,False,False,19,,12,,[],3,5,75028
+4,2292929,12,False,False,120,"['2022-10-19', '18:30:00']",0,False,False,8,,15,,[],2,3,75030
+5,2292928,12,False,False,119,"['2022-10-19', '19:15:00']",0,False,False,18,,14,,[],3,4,75029
+6,2292922,12,False,False,113,"['2022-10-20', '18:30:00']",0,False,False,6,,4,,[],4,2,75023
+7,2292925,12,False,False,116,"['2022-10-20', '18:30:00']",0,False,False,2,,9,,[],2,2,75026
+8,2292926,12,False,False,117,"['2022-10-20', '18:30:00']",0,False,False,11,,10,,[],2,4,75027
+9,2292921,12,False,False,111,"['2022-10-20', '19:15:00']",0,False,False,13,,1,,[],5,4,75021

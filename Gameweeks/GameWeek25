@@ -1,0 +1,11 @@
+,code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_start_time,started,team_a,team_a_score,team_h,team_h_score,stats,team_h_difficulty,team_a_difficulty,pulse_id
+0,2293050,25,False,False,241,"['2023-02-25', '15:00:00']",0,False,False,13,,3,,[],5,2,75151
+1,2293051,25,False,False,242,"['2023-02-25', '15:00:00']",0,False,False,12,,7,,[],5,2,75152
+2,2293052,25,False,False,243,"['2023-02-25', '15:00:00']",0,False,False,2,,8,,[],2,2,75153
+3,2293053,25,False,False,244,"['2023-02-25', '15:00:00']",0,False,False,20,,9,,[],2,2,75154
+4,2293054,25,False,False,245,"['2023-02-25', '15:00:00']",0,False,False,17,,11,,[],2,2,75155
+5,2293055,25,False,False,246,"['2023-02-25', '15:00:00']",0,False,False,1,,10,,[],3,4,75156
+6,2293056,25,False,False,247,"['2023-02-25', '15:00:00']",0,False,False,4,,14,,[],2,4,75157
+7,2293057,25,False,False,248,"['2023-02-25', '15:00:00']",0,False,False,5,,15,,[],2,3,75158
+8,2293058,25,False,False,249,"['2023-02-25', '15:00:00']",0,False,False,6,,18,,[],4,4,75159
+9,2293059,25,False,False,250,"['2023-02-25', '15:00:00']",0,False,False,16,,19,,[],2,3,75160
